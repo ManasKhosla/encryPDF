@@ -1,1 +1,0 @@
-start encry/Scripts/pythonw.exe main.py
