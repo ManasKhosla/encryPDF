@@ -9,7 +9,7 @@ You can download the zip file from releases and run ```main.exe``` in root folde
 
 ### For Linux/Mac
 
-First make sure you have ```tkinter``` installed by running following command
+First make sure you have ```tkinter``` installed. Then just do
 
 ```bash
 git clone https://github.com/ManasKhosla/encryPDF.git
